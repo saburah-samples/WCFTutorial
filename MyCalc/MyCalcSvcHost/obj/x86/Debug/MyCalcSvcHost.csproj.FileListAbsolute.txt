@@ -1,0 +1,11 @@
+C:\Users\Denis\Projects\GitHub\WCFTutorial\MyCalcSvcHost\MyCalcSvcHost\bin\Debug\MyCalcSvcHost.exe
+C:\Users\Denis\Projects\GitHub\WCFTutorial\MyCalcSvcHost\MyCalcSvcHost\bin\Debug\MyCalcSvcHost.pdb
+C:\Users\Denis\Projects\GitHub\WCFTutorial\MyCalcSvcHost\MyCalcSvcHost\bin\Debug\MyCalcSvc.dll
+C:\Users\Denis\Projects\GitHub\WCFTutorial\MyCalcSvcHost\MyCalcSvcHost\bin\Debug\MyCalcSvc.pdb
+C:\Users\Denis\Projects\GitHub\WCFTutorial\MyCalcSvcHost\MyCalcSvcHost\obj\x86\Debug\MyCalcSvcHost.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Projects\GitHub\WCFTutorial\MyCalcSvcHost\MyCalcSvcHost\obj\x86\Debug\MyCalcSvcHost.exe
+C:\Users\Denis\Projects\GitHub\WCFTutorial\MyCalcSvcHost\MyCalcSvcHost\obj\x86\Debug\MyCalcSvcHost.pdb
+C:\Users\Denis\Projects\GitHub\WCFTutorial\MyCalc\MyCalcSvcHost\obj\x86\Debug\MyCalcSvcHost.exe
+C:\Users\Denis\Projects\GitHub\WCFTutorial\MyCalc\MyCalcSvcHost\obj\x86\Debug\MyCalcSvcHost.pdb
+C:\Users\Denis\Projects\GitHub\WCFTutorial\MyCalc\MyCalcSvcHost\bin\Debug\MyCalcSvcHost.exe
+C:\Users\Denis\Projects\GitHub\WCFTutorial\MyCalc\MyCalcSvcHost\bin\Debug\MyCalcSvcHost.pdb

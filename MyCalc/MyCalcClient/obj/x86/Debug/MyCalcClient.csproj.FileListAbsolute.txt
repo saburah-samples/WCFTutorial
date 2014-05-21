@@ -1,0 +1,5 @@
+C:\Users\Denis\Projects\GitHub\WCFTutorial\MyCalc\MyCalcClient\bin\Debug\MyCalcClient.exe
+C:\Users\Denis\Projects\GitHub\WCFTutorial\MyCalc\MyCalcClient\bin\Debug\MyCalcClient.pdb
+C:\Users\Denis\Projects\GitHub\WCFTutorial\MyCalc\MyCalcClient\obj\x86\Debug\MyCalcClient.exe
+C:\Users\Denis\Projects\GitHub\WCFTutorial\MyCalc\MyCalcClient\obj\x86\Debug\MyCalcClient.pdb
+C:\Users\Denis\Projects\GitHub\WCFTutorial\MyCalc\MyCalcClient\bin\Debug\MyCalcClient.exe.config

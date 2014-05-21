@@ -1,0 +1,8 @@
+C:\Users\Denis\Projects\GitHub\WCFTutorial\MyCalcSvc\MyCalcSvc\bin\Debug\MyCalcSvc.dll
+C:\Users\Denis\Projects\GitHub\WCFTutorial\MyCalcSvc\MyCalcSvc\bin\Debug\MyCalcSvc.pdb
+C:\Users\Denis\Projects\GitHub\WCFTutorial\MyCalcSvc\MyCalcSvc\obj\Debug\MyCalcSvc.dll
+C:\Users\Denis\Projects\GitHub\WCFTutorial\MyCalcSvc\MyCalcSvc\obj\Debug\MyCalcSvc.pdb
+C:\Users\Denis\Projects\GitHub\WCFTutorial\MyCalc\MyCalcSvc\bin\Debug\MyCalcSvc.dll
+C:\Users\Denis\Projects\GitHub\WCFTutorial\MyCalc\MyCalcSvc\bin\Debug\MyCalcSvc.pdb
+C:\Users\Denis\Projects\GitHub\WCFTutorial\MyCalc\MyCalcSvc\obj\Debug\MyCalcSvc.dll
+C:\Users\Denis\Projects\GitHub\WCFTutorial\MyCalc\MyCalcSvc\obj\Debug\MyCalcSvc.pdb
